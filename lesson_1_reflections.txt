@@ -1,0 +1,9 @@
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+If I apply two diffs then i can see what was added and what was removed.
+If something was added wrong, then I can correct it.
+if something was removed mistakingly, then we can add it.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
